@@ -218,7 +218,7 @@ top-site-desktop {
   .top-site-desktop {
     display: flex;
     flex-direction: row-reverse;
-height: 100%;
+    height: 100%;
     /* align-items: stretch; */
   }
  .section-log {
